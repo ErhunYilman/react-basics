@@ -6,6 +6,7 @@ class App extends React.Component {
 		return(
 		    // je kan hier geen geen meerdere elementen terug gevenn
 		    <div className="container">
+                {/* leg iets uit over classses */}
                 <div className="row">
                     <div className="col-sm">
                         <h1>HTML in JavaScript whaaat??</h1>
